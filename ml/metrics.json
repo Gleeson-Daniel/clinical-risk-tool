@@ -1,0 +1,11 @@
+{
+  "n_patients": 297,
+  "prevalence": 0.4613,
+  "cv_auc_mean": 0.8794,
+  "cv_auc_std": 0.0457,
+  "brier_uncalibrated": 0.1455,
+  "brier_calibrated": 0.1381,
+  "baseline_cv_auc_mean": 0.8981,
+  "baseline_cv_auc_std": 0.0421,
+  "baseline_brier": 0.1264
+}
